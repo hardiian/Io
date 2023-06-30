@@ -1,0 +1,15 @@
+main .home{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    color: #c4c3ca;
+	background-color: whitesmoke;
+    width: 99%;
+    height: 100%;
+    margin: 5px;
+    padding: 20px;
+    float: right;
+    position: relative;
+    scroll-behavior: smooth;
+}
